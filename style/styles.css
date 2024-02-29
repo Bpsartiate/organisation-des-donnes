@@ -1,0 +1,21 @@
+/* titre d'ajou */
+.ajoutter {
+    display: inline-flex;
+    justify-content: center;
+}
+.ajoutter .fa-solid{
+    text-align:center;
+    font-size: 50px;
+    background:#fcfcfc00;
+    box-shadow: 20px black;
+    -webkit-animation: bounce 0.75s infinite;
+    transition: 0.5s;
+   }
+.ajoutter h3{
+    display: inline-flex;
+    justify-content: center;
+    padding: 20px;
+}
+.ajoutter .fa-solid:hover{
+    opacity: 0.6;
+}
